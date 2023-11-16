@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, PHP**
 
-- 📫 How to reach me **mohammedbasitha876@gmail.com**
+- 📫 How to reach me **contactmhdbasitha@gmail.com**
 
 - 🌎 Personal <a href="https://symphonious-unicorn-672cd1.netlify.app" target="blank">Website</a>
 
