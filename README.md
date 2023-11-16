@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohammedbasitha876@gmail.com**
 
-- <a href="https://symphonious-unicorn-672cd1.netlify.app" target="blank">Website</a>
+- 🌎 Personal <a href="https://symphonious-unicorn-672cd1.netlify.app" target="blank">Website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
