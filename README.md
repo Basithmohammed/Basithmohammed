@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contactmhdbasitha@gmail.com**
 
-- 🌎 Personal <a href="https://gorgeous-speculoos-1723c8.netlify.app/" target="blank">Website</a>
+- 🌎 Personal <a href="https://mohammedbasith.netlify.app" target="blank">Website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
